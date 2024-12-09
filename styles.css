@@ -3,10 +3,6 @@ body{
     font-family: "Open Sans", sans-serif;
 }
 
-.navbar-height{
-    height: 12vh;
-}
-
 .carousel img{
     max-height: 50vh;
 }
@@ -22,7 +18,6 @@ body{
     font-family: "Inter", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
-    padding-bottom: 3%;
 }
 
 #Noticias{
@@ -45,3 +40,8 @@ body{
      padding-top: 10%;
     padding-bottom: 10%;
 }
+
+#projeto{
+    background-color: #ebca26;
+}
+
